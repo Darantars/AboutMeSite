@@ -1,0 +1,26 @@
+.PodvalClass {
+    background-color: #2A2929; /* Цвет фона под текстом параграфа */
+    color: white; /* Цвет текста */
+    font-style: Poppins;
+    background-position: left bottom;
+    margin-left: -1em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 2em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.TopperClass {
+    background-color: #2A2929; /* Цвет фона под текстом параграфа */
+    color: white; /* Цвет текста */
+    font-style: Poppins;
+    background-position: left bottom;
+    margin-left: -1em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 2em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
